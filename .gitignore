@@ -1,0 +1,26 @@
+# 忽略编译生成的可执行文件
+*.exe
+*.out
+*.test
+
+
+# 忽略 IDE 和编辑器的配置文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 忽略日志和临时文件
+*.log
+*.tmp
+
+# 忽略环境配置文件
+.env
+.env.local
+
+# 忽略测试数据和输出
+testdata/
+test_output/
+
+# 忽略缓存文件
+.cache/
